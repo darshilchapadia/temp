@@ -1,5 +1,7 @@
 {
-  "status": "OK",
+  "bangalore": [
+    {
+      "status": "OK",
   "predictions": [
     {
       "description": "Koramangala, Bengalore",
@@ -95,7 +97,11 @@
         "route",
         "geocode"
       ]
-    },
+    }
+  ]
+    }
+  ],
+  "mumbai":[
     {
       "description": "Powai, Mumbai",
       "id": "bee539812eeda477dad282bcc8310758fb31d64d",
